@@ -3,11 +3,11 @@
         "freshbeatradio":
             { 
                 "name": "FreshBeatRadio",
-                "logo": "https://fbradio.uk/splashbackup2/fbradiouk.png",
+                "logo": "https://fbradio.uk/imgs2/radio-image.jpg",
                 "website": "https://fbradio.uk",
                 "description": "freshbeatradio is an online Internet radio station that plays a huge variety of the freshest & best hits from across the many genres of music which are presented by our Radio DJ's in the UK & Worldwide.",
                 "color": "#043b1f",
-                "listen_url": "https://live.fbradio.uk/radio/8080/radio.mp3",
+                "listen_url": "https://live.fbradio.pw",
                 "api_url": "EXTERNAL",
                 "ext_api_identifier": "freshbeat"
             }
