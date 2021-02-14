@@ -3,11 +3,11 @@
     "harmony":
       { 
         "name": "Harmony",
-        "logo": "https://a.alpacacdn.gg/ra/harmony.png",
-        "website": "https://harmonyradio.pw",
+        "logo": "https://weareharmony.net/splash/__assets__/default.png",
+        "website": "https://weareharmony.net",
         "description": "You give the Harmony to music.",
-        "color": "#9546dd",
-        "listen_url": "https://radio.harmonyradio.pw/web",
+        "color": "#D267F4",
+        "listen_url": "https://radio.harmonyradio.pw",
         "api_url": "EXTERNAL",
         "ext_api_identifier": "harmony"
       }
