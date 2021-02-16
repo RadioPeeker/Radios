@@ -7,7 +7,7 @@
                 "website": "https://fbradio.uk",
                 "description": "freshbeatradio is an online Internet radio station that plays a huge variety of the freshest & best hits from across the many genres of music which are presented by our Radio DJ's in the UK & Worldwide.",
                 "color": "#043b1f",
-                "listen_url": "https://live.fbradio.pw",
+                "listen_url": "https://listen.fbradio.uk",
                 "api_url": "EXTERNAL",
                 "ext_api_identifier": "freshbeat"
             }
