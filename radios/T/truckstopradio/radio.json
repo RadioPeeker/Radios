@@ -7,7 +7,7 @@
                 "website": "https://truckstopradio.co.uk",
                 "description": "TruckStopRadio is a fully community-ran and online radio station for the Simulation community that launched on the 12th May 2020!",
                 "color": "#E8433D",
-                "listen_url": "https://truckstopradio.radioca.st/stream",
+                "listen_url": "https://oreo.truckstopradio.co.uk/radio/8000/stream",
                 "api_url": "EXTERNAL",
                 "ext_api_identifier": "truckstopradio"
             }
