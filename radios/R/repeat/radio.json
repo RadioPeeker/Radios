@@ -1,0 +1,15 @@
+[
+    {
+      "repeat":
+        { 
+          "name": "Repeat",
+          "logo": "https://media.discordapp.net/attachments/809121962541580298/809126654440898600/New_Project_-_2020-09-30T170907.904.png",
+          "website": "https://repeatradio.net",
+          "description": "Repeat is an online international radio community repeating the tunes daily.",
+          "color": "#6D59BC",
+          "listen_url": "https://azura.veth1.cc/radio/8320/radio.mp3",
+          "api_url": "EXTERNAL",
+          "ext_api_identifier": "repeat"
+        }
+    }
+  ]
